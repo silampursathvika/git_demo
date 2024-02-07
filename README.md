@@ -1,2 +1,3 @@
 # git_demo
-My firstt git repo
+My firstt git repo.
+Authorr - Sathvika
